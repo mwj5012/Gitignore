@@ -1,2 +1,8 @@
 .classpath
 .project
+.springBeans
+.settings/
+bin/
+target/
+src/**/spring/**
+.class
